@@ -1,0 +1,2 @@
+Data Input: [20, 20, 20, 20, 20]
+The sum of Data Input: 100
