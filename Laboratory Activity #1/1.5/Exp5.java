@@ -13,7 +13,7 @@ public class Exp5 {
             while((textFile = br.readLine()) != null) {
             data += textFile;
         }
-            String[] counter = data.split(" ");
+            String[] counter = data.split("[ ()]+");
             int ln = counter.length -1;
             System.out.println(" ");
             
