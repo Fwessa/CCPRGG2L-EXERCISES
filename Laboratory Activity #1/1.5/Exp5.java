@@ -7,7 +7,7 @@ public class Exp5 {
         // >> File Reader <<
         // Rename input file path if needed
         
-        File inputFile = new File("dummy.txt");
+        File inputFile = new File("SampleText2.txt");
         Scanner inFile = new Scanner(inputFile);
 
         // >> File Writer <<
